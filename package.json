@@ -23,6 +23,6 @@
    "scripts": {
       "build": "tsc -p .",
       "dev": "nodemon src/index.ts",
-      "start": "cd dist &&; node src/index.js"
+      "start": "cd dist && node src/index.js"
    }
 }
