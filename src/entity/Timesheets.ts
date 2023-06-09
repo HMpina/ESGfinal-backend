@@ -1,4 +1,4 @@
-import { Entity, PrimaryGeneratedColumn, Column, UpdateDateColumn, BeforeInsert, BeforeUpdate } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column, BeforeInsert, BeforeUpdate } from 'typeorm';
 
 
 @Entity()
